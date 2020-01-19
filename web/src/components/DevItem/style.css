@@ -1,0 +1,15 @@
+li.dev-item p {
+    color:#666;
+    font-size: 14px;
+    line-height: 20px;
+    margin:10px 0;
+}
+
+li.dev-item a {
+    color: #8e4dff;
+    font-size: 14px;
+    text-decoration: none;
+}
+li.dev-item a:hover {
+    color:#5a2ea6
+}
